@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#90000000"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:baseActivity="com.gdptc.superbook.ui.activity.RegisterActivity" >
+
+    <include
+        layout="@layout/toolbar" />
+
+    <View
+        android:id="@+id/view_register_line"
+        android:layout_below="@id/toolbar_bar"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="1px" />
+
+    <ScrollView
+        android:layout_below="@id/view_register_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:baseActivity="com.gdptc.superbook.ui.activity.RegisterActivity" >
+
+        <android.support.constraint.ConstraintLayout
+            android:paddingBottom="30dp"
+            android:id="@+id/constraintLyt_content_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/edtTxt_phone_register"
+                android:layout_width="@dimen/edtTxt_register_width"
+                android:layout_height="@dimen/edtTxt_register_height"
+                android:background="@drawable/edt_register_shape"
+                android:ems="10"
+                android:hint="请输入您的手机号"
+                android:inputType="phone"
+                android:maxLength="11"
+                android:textColor="@color/colorRegisterTxt"
+                android:textColorHint="@color/colorRegisterTxt"
+                android:theme="@style/RegisterEdtTxtTheme"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_marginTop="10dp"
+                app:layout_constraintTop_toBottomOf="@+id/tv_phone_register"
+                android:layout_marginRight="0dp"
+                app:layout_constraintRight_toRightOf="parent"
+                android:layout_marginLeft="0dp"
+                app:layout_constraintLeft_toLeftOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_phone_register"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="手机号:"
+                android:textColor="@color/colorRegisterTxt"
+                android:textSize="@dimen/tv_register_size"
+                app:layout_constraintStart_toStartOf="@+id/edtTxt_phone_register"
+                tools:layout_editor_absoluteX="40dp"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginTop="24dp"
+                app:layout_constraintVertical_bias="0.026" />
+
+            <TextView
+                android:id="@+id/tv_psw_register"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="密码:"
+                android:textColor="@color/colorRegisterTxt"
+                android:textSize="@dimen/tv_register_size"
+                android:layout_marginLeft="0dp"
+                app:layout_constraintLeft_toLeftOf="@+id/tv_phone_register"
+                android:layout_marginTop="24dp"
+                app:layout_constraintTop_toBottomOf="@+id/edtTxt_phone_register" />
+
+            <EditText
+                android:id="@+id/edtTxt_psw_register"
+                android:layout_width="@dimen/edtTxt_register_width"
+                android:layout_height="@dimen/edtTxt_register_height"
+                android:background="@drawable/edt_register_shape"
+                android:ems="10"
+                android:hint="请输入您的密码"
+                android:inputType="textPassword"
+                android:textColor="@color/colorRegisterTxt"
+                android:textColorHint="@color/colorRegisterTxt"
+                android:theme="@style/RegisterEdtTxtTheme"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginTop="10dp"
+                app:layout_constraintTop_toBottomOf="@+id/tv_psw_register"
+                android:layout_marginLeft="0dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:layout_marginRight="0dp"
+                app:layout_constraintRight_toRightOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_rePsw_register"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="确认密码:"
+                android:textColor="@color/colorRegisterTxt"
+                android:textSize="@dimen/tv_register_size"
+                android:layout_marginTop="24dp"
+                app:layout_constraintTop_toBottomOf="@+id/edtTxt_psw_register"
+                android:layout_marginLeft="0dp"
+                app:layout_constraintLeft_toLeftOf="@+id/tv_psw_register" />
+
+            <EditText
+                android:id="@+id/edtTxt_rePsw_register"
+                android:layout_width="@dimen/edtTxt_register_width"
+                android:layout_height="@dimen/edtTxt_register_height"
+                android:background="@drawable/edt_register_shape"
+                android:ems="10"
+                android:hint="请再次输入您的密码"
+                android:inputType="textPassword"
+                android:textColor="@color/colorRegisterTxt"
+                android:textColorHint="@color/colorRegisterTxt"
+                android:theme="@style/RegisterEdtTxtTheme"
+                android:layout_marginTop="10dp"
+                app:layout_constraintTop_toBottomOf="@+id/tv_rePsw_register"
+                android:layout_marginLeft="0dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:layout_marginRight="0dp"
+                app:layout_constraintRight_toRightOf="parent" />
+
+            <Button
+                android:id="@+id/btn_submit_register"
+                android:layout_width="@dimen/btn_register_submit_width"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_register_select"
+                android:text="注册"
+                android:textColor="@color/colorRegisterTxt"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_marginRight="0dp"
+                app:layout_constraintRight_toRightOf="parent"
+                android:layout_marginLeft="0dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:layout_marginTop="80dp"
+                app:layout_constraintTop_toBottomOf="@+id/edtTxt_rePsw_register" />
+
+        </android.support.constraint.ConstraintLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

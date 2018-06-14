@@ -1,0 +1,42 @@
+apply plugin: 'com.android.library'
+apply plugin: 'checkstyle'
+
+task checkstyle(type: Checkstyle) {
+  configFile rootProject.file('checkstyle.xml')
+  source 'src/main/java'
+  ignoreFailures false
+  showViolations true
+  include '**/*.java'
+
+  classpath = files()
+}
+
+afterEvaluate {
+  if (project.tasks.findByName('check')) {
+    check.dependsOn('checkstyle')
+  }
+}
+
+android {
+  compileSdkVersion Integer.parseInt(project.ANDROID_BUILD_SDK_VERSION)
+  buildToolsVersion project.ANDROID_BUILD_TOOLS_VERSION
+
+  defaultConfig {
+    minSdkVersion Integer.parseInt(project.ANDROID_BUILD_MIN_SDK_VERSION)
+  }
+
+  lintOptions {
+    warning 'MissingTranslation'
+    textReport true
+    textOutput 'stdout'
+  }
+}
+
+dependencies {
+  testCompile 'junit:junit:4.12'
+  testCompile 'com.squareup:fest-android:1.0.7'
+  testCompile 'org.robolectric:robolectric:2.2'
+  testCompile 'com.intellij:annotations:12.0'
+}
+
+apply from: rootProject.file('/TimeSquare/gradle-mvn-push.gradle')

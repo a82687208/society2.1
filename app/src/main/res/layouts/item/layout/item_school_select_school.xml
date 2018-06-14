@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clickable="true"
+    android:focusable="true"
+    android:minHeight="60dp"
+    android:background="@drawable/layout_selector_white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:layout_marginLeft="20dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/circleImg_item_school_select_pic"
+        android:layout_width="@dimen/item_book_comment_userPicSize"
+        android:layout_height="@dimen/item_book_comment_userPicSize" />
+
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingRight="10dp"
+        android:layout_marginLeft="20dp"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/circleImg_item_school_select_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="16sp"
+            android:id="@+id/tv_item_school_select_school_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:textSize="14sp"
+            android:id="@+id/tv_item_school_select_school_old_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_item_school_select_school_line"
+        android:layout_alignParentBottom="true"
+        android:background="#ccc"
+        android:layout_width="match_parent"
+        android:layout_height="1px" />
+
+</RelativeLayout>

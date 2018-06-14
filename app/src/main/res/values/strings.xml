@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">E校社团</string>
+    <string name="app_name_en">CloudSociety</string>
+    <string name="app_push">":pushProcess"</string>
+    <string name="app_data">":dataProcess"</string>
+    <string name="file_error_title">"文件系统错误"</string>
+    <string name="file_limit_title">"系统空间不足"</string>
+    <string name="file_alarm_title">"存储空间不足"</string>
+    <string name="file_error_msg">"很抱歉，E校社团检测到内部文件系统错误，即将退出，请您检查手机内存是否剩余足够空间或检查内存卡是否已插入并挂载"</string>
+    <string name="file_limit_msg">"很抱歉，系统空间剩余大小已不足30M，即将退出，请您清理系统空间"</string>
+    <string name="file_alarm_msg">"存储空间即将用尽，可能会对E校社团的使用造成影响，请您清理存储空间或图片缓存"</string>
+    <string name="file_date_alarm_msg">"系统空间即将用尽，可能会无法使用E校社团，请您清理系统空间"</string>
+    <string name="app_about"></string>
+
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+
+</resources>

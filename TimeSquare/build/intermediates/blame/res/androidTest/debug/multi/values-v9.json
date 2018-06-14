@@ -1,0 +1,194 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioProjects\\society2\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\society2\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\AndroidWorkPlace\\society2\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkPlace\\society2\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\ProjectWork\\society\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\ProjectWork\\society\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\society2\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\society2\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\ProjectWork\\society4\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\ProjectWork\\society4\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\society4\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\society4\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\society2-master\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\society2-master\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\ProjectWork\\society2\\TimeSquare\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v9\\values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\ProjectWork\\society2\\TimeSquare\\build\\intermediates\\bundles\\debug\\res\\values-v9\\values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="asyncLoader_fragment" type="id">async</item>
+    <item name="voiceManager_fragment" type="id">voice</item>
+</resources>

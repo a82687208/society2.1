@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gdptc.society.ui.activity.Society_Activity">
+    <include
+        layout="@layout/toolbar" />
+
+    <View
+        android:id="@+id/view_society_line"
+        android:layout_below="@id/toolbar_bar"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="1px" />
+<ScrollView
+    android:id="@+id/sv_society_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:scaleType="fitXY"
+            android:background="@drawable/icon"
+            android:id="@+id/iv_shetuan_image"
+            android:layout_width="match_parent"
+            android:layout_height="150dp" />
+        <TextView
+            android:layout_margin="1dp"
+            android:text="在最好的年华最美的校园遇见你们你们是光你们是天使你们是我的青春毕业快乐在最好的年华最美的校园遇见你们你们是光你们是天使你们是我的青春在最好的年华最美的校园遇见你们你们是光你们是天使你们是我的青春在最好的年华最美的校园遇见你们你们是光你们是天使你们是我的青春在最好的年华最美的校园遇见你们你们是光你们是天使你们是我的青春"
+            android:id="@+id/tv_shetuan_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="3dp"
+            android:textSize="18dp"
+            android:textColor="#000"
+            android:text="社团成员"
+            android:background="#1a9b7d"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_shetuan_person"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、石化、小明、小红、小蓝、阿敏、微微、大明、蓝海、"/>
+        <TextView
+            android:layout_margin="3dp"
+            android:textSize="18dp"
+            android:textColor="#000"
+            android:text="社团小干"
+            android:background="#1a9b7d"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_shetuan_xiaogan"
+            android:text="小红、小蓝、阿敏、微微、大明、蓝海、石化、小明"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

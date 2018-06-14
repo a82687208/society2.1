@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        layout="@layout/toolbar" />
+
+    <com.gdptc.society.ui.view.ImageTextureView
+        android:layout_below="@id/toolbar_bar"
+        android:id="@+id/activity_user_img_change_img"
+        android:scaleType="fitCenter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.gdptc.society.ui.view.SelectBorderView
+        android:visibility="gone"
+        android:id="@+id/activity_user_img_drawView"
+        android:layout_below="@id/toolbar_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:translationZ="@dimen/toolBar_elevation"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:layout_alignTop="@id/toolbar_bar"
+        android:layout_alignBottom="@id/toolbar_bar"
+        android:clickable="false"
+        android:id="@+id/activity_user_img_cutButton"
+        android:text="裁剪"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:scaleType="fitCenter"
+        android:id="@+id/activity_user_img_previewImg"
+        android:layout_below="@id/toolbar_bar"
+        android:layout_above="@+id/activity_user_img_preImgLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/activity_user_img_preImgLayout"
+        android:layout_above="@+id/activity_user_img_bottomLayout"
+        android:gravity="bottom"
+        android:padding="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/activity_user_img_change_bitImg"
+                android:scaleType="fitCenter"
+                android:layout_width="100dp"
+                android:layout_height="100dp" />
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                android:text="100x100"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/activity_user_img_change_normalImg"
+                android:scaleType="fitCenter"
+                android:layout_width="50dp"
+                android:layout_height="50dp" />
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                android:text="50x50"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/activity_user_img_change_smallImg"
+                android:scaleType="fitCenter"
+                android:layout_width="25dp"
+                android:layout_height="25dp" />
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:textColor="#fff"
+                android:text="25x25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/activity_user_img_bottomLayout"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_marginRight="60dp"
+            android:text="确定"
+            android:id="@+id/activity_user_img_change_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:text="重剪"
+            android:id="@+id/activity_user_img_change_reCut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>

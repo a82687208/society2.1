@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_below="@id/toolbar_bar"
+        android:id="@+id/rltLyt_search_layout"
+        android:padding="5dp"
+        android:background="#3ccc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:inputType="textNoSuggestions"
+            android:maxLength="35"
+            android:singleLine="true"
+            android:theme="@style/EditTextNormalTheme"
+            android:id="@+id/edtTxt_search_input"
+            android:background="#fff"
+            android:textColorHint="#ccc"
+            android:textSize="14sp"
+            android:textColor="#000"
+            android:paddingLeft="26dp"
+            android:paddingRight="27dp"
+            android:layout_width="match_parent"
+            android:layout_height="25dp" />
+
+        <ImageView
+            android:visibility="gone"
+            android:layout_marginRight="1dp"
+            android:layout_alignRight="@id/edtTxt_search_input"
+            android:layout_alignTop="@id/edtTxt_search_input"
+            android:layout_alignBottom="@id/edtTxt_search_input"
+            android:src="@mipmap/ic_launcher"
+            android:id="@+id/img_search_delInput"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+
+        <LinearLayout
+            android:visibility="visible"
+            android:id="@+id/lnrLyt_item_search_box_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/toolbar_bar"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_marginRight="5dp"
+                android:id="@+id/img_item_search_box_searchLogo"
+                android:src="@drawable/search_gray"
+                android:layout_width="25dp"
+                android:layout_height="25dp" />
+
+            <TextView
+                android:id="@+id/tv_item_search_box_searchTitle"
+                android:gravity="center"
+                android:layout_centerHorizontal="true"
+                android:textColor="#bbb"
+                android:layout_below="@id/toolbar_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</merge>

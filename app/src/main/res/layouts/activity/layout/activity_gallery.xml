@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_gallery_parent"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/activity_gallery_bg"
+        android:background="#000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.bm.library.PhotoView
+        android:id="@+id/activity_gallery_photoView"
+        android:scaleType="fitCenter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/activity_gallery_mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.gdptc.society.ui.view.JazzyViewPager
+            android:id="@+id/activity_gallery_viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <RelativeLayout
+            android:background="#50000000"
+            android:id="@+id/activity_gallery_bottomLayout"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:drawablePadding="0dp"
+                android:id="@+id/activity_gallery_checkBox"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@id/activity_gallery_checkBox"
+                android:text="选择"
+                android:textColor="#fff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+        <include
+            layout="@layout/toolbar" />
+
+        <Button
+            android:id="@+id/activity_gallery_send"
+            android:text="发送"
+            android:layout_alignParentRight="true"
+            android:layout_alignBottom="@id/toolbar_bar"
+            android:layout_width="70dp"
+            android:layout_height="50dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        layout="@layout/toolbar" />
+
+    <include
+        android:layout_below="@id/toolbar_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/item_search_box" />
+
+    <com.example.basemodel.BaseRecyclerView
+        android:background="#fff"
+        android:visibility="gone"
+        android:scrollbars="vertical"
+        android:layout_below="@+id/rltLyt_search_layout"
+        android:id="@+id/rcy_school_select_province"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.example.basemodel.BaseRecyclerView
+        android:background="#fff"
+        android:visibility="gone"
+        android:scrollbars="vertical"
+        android:layout_below="@+id/rltLyt_search_layout"
+        android:id="@+id/rcy_school_select_school"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.gdptc.society.ui.view.SideBar
+        xmlns:sidebar="http://schemas.android.com/apk/res-auto"
+        android:layout_below="@+id/rltLyt_search_layout"
+        android:layout_alignParentRight="true"
+        android:textSize="15dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        sidebar:scaleTime="1"
+        sidebar:scaleWidth="65dp"
+        android:layout_width="200dp"
+        android:id="@+id/activity_channel_siBar"
+        android:layout_height="match_parent" />
+
+    <include
+        android:layout_below="@id/toolbar_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/item_layout_loading" />
+
+    <TextView
+        android:id="@+id/tv_school_select_noDataResult"
+        android:visibility="gone"
+        android:gravity="center"
+        android:text="没有搜索到内容"
+        android:textSize="@dimen/tv_search_noDataSize"
+        android:layout_below="@id/toolbar_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

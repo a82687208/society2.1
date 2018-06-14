@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        layout="@layout/toolbar" />
+
+    <android.support.v7.widget.CardView
+        app:cardBackgroundColor="#fff"
+        app:cardElevation="4dp"
+        app:cardCornerRadius="10dp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="个人资料"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:paddingRight="@dimen/tv_complete_info_labelPadding"
+                android:paddingLeft="@dimen/tv_complete_info_labelTitleMarginLeft"
+                android:textSize="18sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:padding="5dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/border_gray"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:paddingLeft="@dimen/tv_complete_info_labelMarginLeft"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/lyt_complete_info_size">
+
+                    <TextView
+                        android:text="个性称呼:"
+                        android:id="@+id/tv_complete_info_userName"
+                        android:layout_centerVertical="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <EditText
+                        android:layout_toRightOf="@id/tv_complete_info_userName"
+                        android:layout_toLeftOf="@+id/crlImg_complete_info_userPic"
+                        android:layout_marginLeft="@dimen/edtTxt_complete_info_margin"
+                        android:layout_marginRight="10dp"
+                        android:theme="@style/EditTextNormalTheme"
+                        android:background="@null"
+                        android:id="@+id/edtTxt_complete_info_userName"
+                        android:hint="请输入昵称"
+                        android:textSize="14sp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+
+                    <ImageView
+                        android:layout_marginRight="10dp"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:id="@+id/crlImg_complete_info_userPic"
+                        android:src="@drawable/user_pic"
+                        android:scaleType="fitCenter"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp" />
+
+                </RelativeLayout>
+
+                <View
+                    android:background="#ccc"
+                    android:layout_width="match_parent"
+                    android:layout_height="1px" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:id="@+id/lyt_complete_info_peopleNum"
+                        android:paddingLeft="@dimen/tv_complete_info_labelMarginLeft"
+                        android:gravity="center_vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/lyt_complete_info_size">
+
+                        <TextView
+                            android:text="证件号:"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <EditText
+                            android:inputType="number"
+                            android:layout_marginLeft="@dimen/edtTxt_complete_info_margin"
+                            android:theme="@style/EditTextNormalTheme"
+                            android:background="@null"
+                            android:id="@+id/edtTxt_complete_info_peopleNum"
+                            android:hint="请输入您的学号"
+                            android:textSize="14sp"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+                <View
+                    android:background="#ccc"
+                    android:layout_width="match_parent"
+                    android:layout_height="1px" />
+
+                <LinearLayout
+                    android:paddingLeft="@dimen/tv_complete_info_labelMarginLeft"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/lyt_complete_info_size">
+
+                    <TextView
+                        android:text="学校: "
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:id="@+id/tv_complete_info_school"
+                        android:text="请选择学校"
+                        android:textColor="#a3a3a3"
+                        android:gravity="center_vertical"
+                        android:layout_marginLeft="25dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+
+                </LinearLayout>
+
+                <View
+                    android:background="#ccc"
+                    android:layout_width="match_parent"
+                    android:layout_height="1px" />
+
+                <LinearLayout
+                    android:paddingLeft="@dimen/tv_complete_info_labelMarginLeft"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/lyt_complete_info_size">
+
+                    <TextView
+                        android:text="性别:"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <Button
+                        android:id="@+id/btn_complete_info_sex_man"
+                        android:text="男"
+                        android:background="@drawable/btn_search_press_blue"
+                        android:layout_marginLeft="48dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="35dp" />
+
+                    <Button
+                        android:id="@+id/btn_complete_info_sex_girl"
+                        android:text="女"
+                        android:textColor="@color/colorSearchBtn"
+                        android:background="@drawable/btn_search_nopress"
+                        android:layout_marginLeft="@dimen/edtTxt_complete_info_margin"
+                        android:layout_width="wrap_content"
+                        android:layout_height="35dp" />
+
+                </LinearLayout>
+
+                <RadioGroup
+                    android:id="@+id/rg_complete_info"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:checked="true"
+                        android:id="@+id/rb_complete_info_stu"
+                        android:layout_marginRight="40dp"
+                        android:text="我是学生"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <RadioButton
+                        android:id="@+id/rb_complete_info_manager"
+                        android:layout_marginLeft="40dp"
+                        android:text="我是管理员"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </RadioGroup>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <Button
+        android:background="@drawable/normal_button_blue"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btn_complete_info_submit"
+        android:textColor="#fff"
+        android:text="确定"
+        android:layout_marginTop="30dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

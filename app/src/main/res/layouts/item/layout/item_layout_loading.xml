@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/backgroundColor"
+    android:id="@+id/lyt_item_loading_mainLayout"
+    android:gravity="center"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ProgressBar
+        android:id="@+id/pb_item_loading_icon"
+        android:layout_marginRight="10dp"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:indeterminateBehavior="repeat"
+        android:indeterminateDrawable="@drawable/layout_loading"
+        android:indeterminateOnly="true" />
+
+    <TextView
+        android:id="@+id/tv_item_loading_title"
+        android:text="正在加载..."
+        android:textColor="#ccc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

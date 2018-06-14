@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:elevation="@dimen/toolBar_elevation"
+        android:id="@id/toolbar_bar"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:minHeight="@dimen/titleBarHeight"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleBarHeight">
+
+        <TextView
+            android:id="@+id/tv_toolbar_title"
+            android:layout_gravity="center"
+            android:textColor="#fff"
+            android:textSize="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </android.support.v7.widget.Toolbar>
+
+</merge>

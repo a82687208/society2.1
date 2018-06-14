@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gdptc.society.ui.view.FixImmersedRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        layout="@layout/toolbar" />
+
+    <TextView
+        android:translationZ="@dimen/toolBar_elevation"
+        android:id="@+id/tv_add_society_submit"
+        android:layout_marginRight="15dp"
+        android:gravity="center"
+        android:text="提交"
+        android:textSize="15sp"
+        android:textColor="#fff"
+        android:layout_alignTop="@id/toolbar_bar"
+        android:layout_alignBottom="@id/toolbar_bar"
+        android:layout_alignRight="@id/toolbar_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.example.basemodel.BaseScrollView
+        android:layout_below="@id/toolbar_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="活动信息"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <View
+                android:background="#ccc"
+                android:layout_width="match_parent"
+                android:layout_height="1px" />
+
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+                <TextView
+                    android:layout_marginLeft="@dimen/add_book_label_marginLeft"
+                    android:text="活动名称: "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:inputType="textNoSuggestions"
+                    style="@style/AddBookEditTextTheme"
+                    android:hint="请输入活动的名称"
+                    android:id="@+id/edtTxt_add_society_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <View
+                android:background="#ccc"
+                android:layout_width="match_parent"
+                android:layout_height="1px" />
+
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+                <TextView
+                    android:layout_marginLeft="@dimen/add_book_label_marginLeft"
+                    android:text="活动人数: "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:inputType="textNoSuggestions"
+                    style="@style/AddBookEditTextTheme"
+                    android:hint="请输入活动的最多参与人数"
+                    android:id="@+id/edtTxt_add_society_max"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <View
+                android:background="#ccc"
+                android:layout_width="match_parent"
+                android:layout_height="1px" />
+
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+                <TextView
+                    android:layout_marginLeft="@dimen/add_book_label_marginLeft"
+                    android:text="福利: "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:inputType="textNoSuggestions"
+                    style="@style/AddBookEditTextTheme"
+                    android:hint="选填"
+                    android:id="@+id/edtTxt_add_society_welfare"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <TextView
+                android:text="活动地点"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+                <TextView
+                    android:layout_marginLeft="@dimen/add_book_label_marginLeft"
+                    android:text="活动地点: "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:id="@+id/edtTxt_add_society_address"
+                    style="@style/AddBookEditTextTheme"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="活动举办地点" />
+
+            </LinearLayout>
+
+            <View
+                android:background="#ccc"
+                android:layout_width="match_parent"
+                android:layout_height="1px" />
+
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+                <TextView
+                    android:layout_marginLeft="@dimen/add_book_label_marginLeft"
+                    android:text="活动时间: "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    style="@style/AddBookEditTextTheme"
+                    android:gravity="center_vertical"
+                    android:id="@+id/tv_add_society_time"
+                    android:hint="活动举办时间"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <TextView
+                android:text="联系方式"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+                <TextView
+                    android:layout_marginLeft="@dimen/add_book_label_marginLeft"
+                    android:text="联系电话: "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <EditText
+                    android:maxLength="11"
+                    android:inputType="phone"
+                    android:hint="请输入联系号码"
+                    style="@style/AddBookEditTextTheme"
+                    android:id="@+id/edtTxt_add_society_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <TextView
+                android:text="活动介绍"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <RelativeLayout
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="@dimen/add_book_label_marginLeft"
+                android:layout_marginRight="@dimen/add_book_label_marginLeft"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/bg_border_stroke"
+                android:id="@+id/ryt_add_book_head"
+                android:layout_width="match_parent"
+                android:layout_height="170dp">
+
+                <EditText
+                    android:layout_above="@+id/rcy_add_society_pic"
+                    android:padding="5dp"
+                    android:maxLength="150"
+                    style="@style/EditTextNormalTheme"
+                    android:textColor="#000"
+                    android:gravity="start"
+                    android:hint="不超过150字"
+                    android:id="@+id/edtTxt_add_society_msg"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:listSelector="@android:color/transparent"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/rcy_add_society_pic"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignLeft="@+id/tv_add_book_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="70dp" />
+
+                <ImageView
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/image_add"
+                    android:id="@id/img_add_society_addPic"
+                    android:layout_alignBottom="@id/rcy_add_society_pic"
+                    android:layout_toRightOf="@id/rcy_add_society_pic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="70dp" />
+
+                <TextView
+                    android:padding="5dp"
+                    android:id="@+id/tv_add_book_num"
+                    android:text="0/150"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:textSize="13sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </com.example.basemodel.BaseScrollView>
+
+</com.gdptc.society.ui.view.FixImmersedRelativeLayout>

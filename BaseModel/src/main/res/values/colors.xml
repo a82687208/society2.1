@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_shadow_color">#60000000</color>
+    <color name="selectorColor">#10000000</color>
+    <color name="selectorBgColor">#dadada</color>
+    <color name="color_red">#ffff4141</color>
+    <color name="color_blue">#ff3691f6</color>
+    <color name="color_pink">#fff36bf8</color>
+    <color name="color_green">#ff18f026</color>
+
+</resources>

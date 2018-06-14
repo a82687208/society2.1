@@ -1,0 +1,834 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\society2-master\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\ProjectWork\\society4\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android_VM\\.android\\build-cache\\0ebe58ed8bc2c9226f87a695614e81603da3344e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkPlace\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ba2b88a1dcfe71cbabc7c97c1bc6961f0ee28509\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\society2\\magicindicator\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\SoftX86\\adt-bundle-windows-x86\\sdk\\.android\\build-cache\\ff0084404184ae36cf1307b58483c771dd1f4bb3\\output\\res\\drawable\\abc_edit_text_material.xml"
+    }
+]

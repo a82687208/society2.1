@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/favorite"
+            android:icon="@mipmap/ic_launcher"
+            android:checkable="true"
+            android:title="    会员"/>
+        <item
+            android:id="@+id/favorite"
+            android:icon="@mipmap/ic_launcher"
+            android:checkable="true"
+            android:title="    个性装扮"/>
+    </group>
+    <item
+        android:id="@+id/wallet"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    收藏"/>
+    <item
+        android:id="@+id/photo"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    我的赞"/>
+    <item
+        android:id="@+id/dress"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    我的评论"/>
+    <item
+        android:id="@+id/attention"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    我的关注"/>
+    <item
+        android:id="@+id/idea"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    最近浏览"/>
+    <item
+        android:id="@+id/file"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    联系我们"/>
+    <item
+        android:id="@+id/setting"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    设置"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@mipmap/ic_launcher"
+        android:title="    退出" />
+</menu>

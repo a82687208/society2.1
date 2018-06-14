@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/btn_register_press" android:state_enabled="true"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/btn_register_nopress" android:state_enabled="true"
+        android:state_pressed="false"/>
+    <item android:drawable="@drawable/btn_register_unclick_shape"
+        android:state_enabled="false" />
+
+</selector>

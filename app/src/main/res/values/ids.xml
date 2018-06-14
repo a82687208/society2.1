@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar_bar" type="id">0x00000001</item>
+    <item name="img_add_society_addPic" type="id">0x00000002</item>
+</resources>

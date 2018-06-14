@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        layout="@layout/toolbar" />
+
+    <EditText
+        android:padding="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        style="@style/EditTextNormalStyle"
+        android:background="@drawable/feed_back_input_shape"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:hint="这一刻，我想说..."
+        android:id="@+id/edtTxt_add_talk_msg"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <RelativeLayout
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="12sp"
+            android:text="记录动心时刻"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_alignParentRight="true"
+            android:id="@+id/activity_feed_back_imgNum"
+            android:textSize="12sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <com.example.basemodel.ParentObject.BaseRecyclerView
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:listSelector="@android:color/transparent"
+        android:id="@+id/rcy_add_talk_msg_pic"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
+    <Button
+        android:layout_margin="40dp"
+        android:id="@+id/btn_add_talk_msg"
+        android:background="@drawable/normal_button_shape_blue"
+        android:text="发表"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="@drawable/layout_selector_white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textSize="14sp"
+        android:id="@+id/tv_item_school_select_province_name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+    <View
+        android:id="@+id/view_item_school_select_province_line"
+        android:layout_alignParentBottom="true"
+        android:background="#ccc"
+        android:layout_width="match_parent"
+        android:layout_height="1px" />
+
+</RelativeLayout>
