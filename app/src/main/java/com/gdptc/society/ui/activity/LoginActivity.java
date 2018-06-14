@@ -34,7 +34,7 @@ import java.util.List;
 import static com.gdptc.society.manager.ApplicationManager.telephonyManager;
 
 public class LoginActivity extends BaseActivity implements View.OnClickListener,
-                                                            TextWatcher, View.OnFocusChangeListener {
+        TextWatcher, View.OnFocusChangeListener {
 
     private EditText edtTxtPhone, edtTxtPsw;
     private ImageView imgDeletePhone, imgDeletePsw, imgPswLook;
@@ -54,7 +54,7 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
 
     private ApiServer apiServer;
 
-    private String[] errMsg = { "手机号", "密码" };
+    private String[] errMsg = {"手机号", "密码"};
 
     private Runnable toastRunnable = new Runnable() {
         @Override
@@ -94,20 +94,19 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         String num = sharedPreferences.getString(DirectoryManager.INFO_PHONE, null);
         cry = sharedPreferences.getString(DirectoryManager.INFO_PSW, null);
 
-//        if ((num != null && cry != null) || sharedPreferences.getString(DirectoryManager.INFO_QQ, null) != null) {
-//            try {
-//                Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-//                startActivity(intent);
-//                finish();
-//                return;
-//            }
-//            catch (Exception e) {
-//                cry = null;
-//                e.printStackTrace();
-//            }
-//        }
+        if ((num != null && cry != null) || sharedPreferences.getString(DirectoryManager.INFO_QQ, null) != null) {
+            try {
+                Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                startActivity(intent);
+                finish();
+                return;
+            } catch (Exception e) {
+                cry = null;
+                e.printStackTrace();
+            }
+        }
 
-        if (num == null)
+        /*if (num == null)
             num = telephonyManager.getLine1Number();
 
         if (num != null) {
@@ -116,7 +115,8 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
             edtTxtPhone.setText(num);
             edtTxtPhone.setSelection(edtTxtPhone.length());
             imgDeletePhone.setVisibility(View.VISIBLE);
-        }
+        }*/
+
 
         if (getIntent().getBooleanExtra(Public.ERROR, false)) {
             remindDialog = new MergeDialog(this);
@@ -155,8 +155,8 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         edtTxtPhone.setOnFocusChangeListener(this);
         edtTxtPsw.setOnFocusChangeListener(this);
 
-        InputFilter[] pswFilters = { inputUtil.spaceFilter };
-        InputFilter[] phoneFilters = { inputUtil.spaceFilter, new InputFilter.LengthFilter(11) };
+        InputFilter[] pswFilters = {inputUtil.spaceFilter};
+        InputFilter[] phoneFilters = {inputUtil.spaceFilter, new InputFilter.LengthFilter(11)};
         edtTxtPsw.setFilters(pswFilters);
         edtTxtPhone.setFilters(phoneFilters);
     }
@@ -198,8 +198,7 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
                         loadingDialog.show(true);
                         loadingDialog.setMessage("正在登入...");
                         apiServer.login(edtTxtPhone.getText().toString(), edtTxtPsw.getText().toString(), lgCallBack);
-                    }
-                    else {
+                    } else {
                         startRunnable = new Runnable() {
                             @Override
                             public void run() {
@@ -219,7 +218,8 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
     }
 
     @Override
-    public void beforeTextChanged(CharSequence s, int start, int count, int after) {}
+    public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+    }
 
     @Override
     public void onTextChanged(CharSequence s, int start, int before, int count) {
@@ -230,7 +230,8 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
     }
 
     @Override
-    public void afterTextChanged(Editable s) {}
+    public void afterTextChanged(Editable s) {
+    }
 
     @Override
     public void onFocusChange(View v, boolean hasFocus) {
@@ -278,7 +279,8 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         }
 
         @Override
-        public void insert(Object o1, Object o2, int result) {}
+        public void insert(Object o1, Object o2, int result) {
+        }
 
         @Override
         public void query(Object o1, Object o2, ResultSet resultSet) {

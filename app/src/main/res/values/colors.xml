@@ -10,9 +10,9 @@
     <color name="holo_blue">#FF33E5B5</color>
     <color name="buttonSelectColor">#32B9AA</color>
     <color name="buttonNormalColor">#7A7A7A</color>
-    <color name="item2Color">#EAEAEA</color>
-    <color name="item1Color">#FFFFFF</color>
-    <color name="itemTextColor">#7A7A7A</color>
+    <color name="item2Color">#c2c2c2</color>
+    <color name="item1Color">#c6bebe</color>
+    <color name="itemTextColor">#4e4d4d</color>
     <color name="broadColor">#EFEBEF</color>
     <color name="textColor">#595959</color>
 </resources>

@@ -1,7 +1,7 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     tools:context="com.gdptc.society.fragment.MainFragment">
 
     <!-- TODO: Update blank fragment layout -->
@@ -19,7 +19,11 @@
             android:layout_weight="1"
             android:background="@drawable/bt_bk"
             android:text="全部社团" />
-
+      <TextView
+          android:background="@color/broadColor"
+          android:layout_gravity="center_vertical"
+          android:layout_width="1dp"
+          android:layout_height="30dp"/>
         <Button
             android:id="@+id/b2"
             style="@style/btnStyle"
@@ -28,7 +32,11 @@
             android:layout_weight="1"
             android:background="@drawable/bt_bk"
             android:text="活动" />
-
+      <TextView
+          android:background="@color/broadColor"
+          android:layout_gravity="center_vertical"
+          android:layout_width="1dp"
+          android:layout_height="30dp"/>
         <Button
             android:id="@+id/b3"
             style="@style/btnStyle"
@@ -38,12 +46,17 @@
             android:background="@drawable/bt_bk"
             android:text="小干职务" />
     </LinearLayout>
-
+    <View
+        android:id="@+id/view_society_line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@id/button_group"
+        android:background="#696767" />
     <FrameLayout
         android:layout_marginTop="40dp"
         android:id="@+id/down_menu_container"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@id/button_group" />
+        android:layout_height="260dp"
+        android:layout_below="@id/view_society_line" />
 
 </FrameLayout>

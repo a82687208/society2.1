@@ -66,12 +66,6 @@ public class MainFragment extends Fragment implements View.OnClickListener {
 
     }
 
-    public void setText(String item1, String item2) {
-        closeDownMenu();
-        // mTextView.setText(item1 + "   " + item2);
-//        new ContentContainerCard(item1,item2);
-    }
-
 
     private void initListener() {
 
@@ -228,7 +222,7 @@ public class MainFragment extends Fragment implements View.OnClickListener {
     }
 
     public void closeDownMenu() {
-        setBtnClose();
+        //setBtnClose();
         DismissAnimtion(mDownMuneContainer);
 //        mDownMuneContainer.setVisibility(View.GONE);
         checkedbutton = -1;
@@ -237,7 +231,7 @@ public class MainFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+       // setBtnClose();
 
     }
 

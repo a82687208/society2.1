@@ -236,10 +236,17 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     public void setText(final String item1, final String item2) {
         //mTextView.setText(item1 + "   " + item2);
         // new MainFragment().closeDownMenu();
+
+        if (item2.equals("社团介绍")) {
+            startActivity(new Intent(MainActivity.this, Society_Activity.class));
+        }
+
+        Toast.makeText(getApplicationContext(), item1 + "" + item2, 0).show();
+/*
         if (new MainFragment().isAdded()) {
             new MainFragment().closeDownMenu();
             Toast.makeText(getApplicationContext(), item1 + "" + item2, 0).show();
-        }
+        }*/
     }
 
 
@@ -299,13 +306,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 
         }
 
-        /*
-        switch (requestCode) {
-            case RESULT_OK:
-                String s = getIntent().getStringExtra(Public.SELECT);
-                bt_school.setText(s);
-                break;
-        }*/
 
     }
 
@@ -404,6 +404,15 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             case R.id.img_main_addWayBill:
                 Intent intent = new Intent(MainActivity.this, AddSocietyActivity.class);
                 startActivity(intent);
+                break;
+            case R.id.bt_school:
+                Intent intent1 = new Intent(MainActivity.this, SchoolSelectActivity.class);
+                startActivityForResult(intent1, 1);
+                break;
+            case R.id.main_menu:
+                if (drawerLayout.isDrawerOpen(navigationView)) {
+                    drawerLayout.closeDrawer(navigationView);
+                }else drawerLayout.openDrawer(navigationView);
                 break;
         }
     }
